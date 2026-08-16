@@ -1,2 +1,2 @@
 # Sundhedsplatformen
-The repository for the sundhedsplatformen sts tool
+The repository for modelling the danish EHR system Sundhedsplatformen using the STS tool
